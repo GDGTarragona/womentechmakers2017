@@ -175,9 +175,9 @@ $(document).ready(function () {
 // Countdown jquery
 
 $(function () {
-    var day = 12,
-        month = 03,
-        year = 2016;
+    var day = 29,
+        month = 04,
+        year = 2017;
     var austDay = new Date(year, month - 1, day);
     $('#defaultCountdown').countdown({until: austDay});
     $('#year').text(austDay.getFullYear());
