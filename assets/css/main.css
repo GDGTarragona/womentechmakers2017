@@ -432,6 +432,10 @@ ul li {
     opacity: .7;
 }
 
+.img-circle {
+    border-radius: 50%;
+}
+
 /* 
  * 6.4 Section: Registration & Pricing
  */
